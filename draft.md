@@ -55,5 +55,11 @@ The Whiteout. As the whiteout began we halted all pixel placement and watched as
 
 -------------------------------------------------------
 
+### Notes
+
+Okay 2nd draft with markdown and better writing. 
+This is not final for the wiki submission. I'll be using this as help for when I write the wiki entry.
+Please give me feedback on the discord.
+
 [^(1)]: https://www.reddit.com/r/steinsgate/comments/ttzwrn/we_should_make_something_steinsgate_related_on/
 [^(2)]: https://twitter.com/FrenDiaga/status/1182756048593137664

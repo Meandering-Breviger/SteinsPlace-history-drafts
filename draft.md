@@ -37,7 +37,7 @@ After completing our art we make contact and ally with our neighbors Chronotrigg
 
 ![ ](imgs/4.png "Okabe v4")
 
-In the midst of adding the blue gear to Okabe we were contacted by PlaceNL informing us they were going to move our Divergence Meter to a new location. (ehh not sure when this happened)
+In the midst of adding a gradient background to Okabe we were contacted by PlaceNL informing us they were going to move our Divergence Meter to a new location. (ehh not sure when this happened)
 
 On April 4th we were contacted again by PlaceNL informing us they were going to build a massive painting over our location. We then made a deal with PlaceNL to have us along with our allies moved to new locations. This went very well and for a brief moment two Okabes existed on the map.
 

@@ -49,7 +49,7 @@ We also helped out our ally Chronotrigger in getting established however. A new 
 
 We manage to drive Quin69 back after allying with the Boston Bruins. We also after much consideration we properly ally with PlaceNL with us joining their bot protection in exchange for us running their bot. It was at this time we finalised the Okabe artwork.
 
-![](imgs/7.png)
+![](imgs/7.png "Okabe v7")
 
 The Whiteout. As the whiteout began we halted all pixel placement and watched as the whiteout unfolded.
 

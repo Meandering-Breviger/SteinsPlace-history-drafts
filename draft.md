@@ -41,7 +41,7 @@ In the midst of adding the blue gear to Okabe we were contacted by PlaceNL infor
 
 On April 4th we were contacted again by PlaceNL informing us they were going to build a massive painting over our location. We then made a deal with PlaceNL to have us along with our allies moved to new locations. This went very well and for a brief moment two Okabes existed on the map.
 
-![ ](imgs/2 Okabe.png "two Okabe") 
+![ ](imgs/2\ Okabe.png "two Okabe") 
 
 In our new location we were contacted by a group who wanted to build a lesbian flag in a no mans land between us and the Boston Bruins logo we allowed it and helped them in building the flag.
 
